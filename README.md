@@ -1,22 +1,12 @@
 # 📊 BNPL Risk Intelligence Dashboard
 
-> An end-to-end data science project modeling consumer default risk 
-> and financial stress in the Buy Now, Pay Later (BNPL) market.
-
-![R](https://img.shields.io/badge/Built%20With-R-276DC3?style=flat&logo=r)
-![Shiny](https://img.shields.io/badge/Dashboard-R%20Shiny-4A90D9?style=flat)
-![Status](https://img.shields.io/badge/Status-In%20Progress-F4A261?style=flat)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat)
-
----
-
 ## 👥 Team
 
 | Name | Role |
 |------|------|
-| Niyat Kahsay | Lead Analyst & Dashboard Developer |
-| Saloni Bahte | Data Engineer & EDA |
-| Kiara Paz | Modeling & Literature Review |
+ Niyat Kahsay 
+ Saloni Bahte 
+Kiara Paz 
 
 ---
 
