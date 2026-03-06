@@ -2,10 +2,10 @@
 
 ## 👥 Team
 
-| Name | Role |
-|------|------|
- Niyat Kahsay 
- Saloni Bahte 
+ Name 
+
+Niyat Kahsay 
+Saloni Bahte 
 Kiara Paz 
 
 ---
