@@ -48,7 +48,7 @@ BNPL_Notebook3_Modeling.ipynb
 
 The rapid expansion of buy now, pay later lending has created a gap in credit risk management. BNPL platforms extend unsecured credit with limited underwriting infrastructure, making it difficult to identify high-risk borrowers before credit is issued. This project builds a machine learning pipeline that predicts borrower default risk using historical loan data combined with macroeconomic indicators and consumer complaint signals.
 
-The goal is to demonstrate that a predictive model trained on publicly available data can provide meaningful risk screening for BNPL-like lending environments. The final system produces a default probability for each borrower, explains the prediction using SHAP values, generates a plain-language summary through a large language model, and allows lenders to adjust the classification threshold based on their risk tolerance.
+The goal is to demonstrate that a predictive model trained on publicly available data can provide meaningful risk screening for BNPL-like lending environments. The final system produces a default probability for each borrower, explains the prediction using SHAP values, generates a plain-language summary through a large language model, and allows lenders to adjust the classification threshold based on their risk tolerance. The model is deployed through an interactive Streamlit dashboard that enables users to input borrower data, explore different economic scenarios, and view real-time risk predictions: https://bnpl-risk-intelligence.streamlit.app/.
 
 ---
 
