@@ -21,7 +21,7 @@ cd bnpl-risk-intelligence
 pip install pandas numpy scikit-learn xgboost shap groq fredapi matplotlib seaborn tqdm pyarrow
 ```
 
-### Data Setup
+**3. Data Setup**
 
 The project uses preprocessed datasets included in the repository where possible. 
 
