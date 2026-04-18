@@ -37,10 +37,10 @@ Replace the placeholder keys in the data collection and modeling notebooks befor
 
 **5. Run notebooks in order**
 ```
-bnpl_data_collection.ipynb
-bnlp_eda_feature_engineering.ipynb
-bnlp_modeling.ipynb
-bnlp_modeling_evaluation_llm.ipynb
+01_BNPL_Data_Collection.ipynb
+02_BNPL_EDA_Feature_Engineering.ipynb
+03_BNPL_Modeling_and_Evaluation_llm.ipynb
+04_BNPL_UserArtifact.ipynb
 ```
 
 ---
