@@ -21,13 +21,16 @@ cd bnpl-risk-intelligence
 pip install pandas numpy scikit-learn xgboost shap groq fredapi matplotlib seaborn tqdm pyarrow
 ```
 
-**3. Set up Google Colab (recommended)**
+### Data Setup
 
-Upload the notebooks to Google Colab and mount your Google Drive. The project folder structure will be created automatically when you run the data collection notebook. Place the raw Lending Club dataset (`accepted_2007_to_2018Q4.csv`) and the CFPB complaints file (`complaints.csv`) in the following path on your Drive:
+The project uses preprocessed datasets included in the repository where possible. 
 
-```
+For full reproducibility, users may optionally download the original Lending Club and CFPB datasets and place them in:
+
 MyDrive/BNPL_Capstone/data/raw/
-```
+
+However, this step is not required to run the modeling and analysis notebooks provided in this repository.
+
 
 **4. API keys required**
 - FRED API: obtain a free key at https://fred.stlouisfed.org/docs/api/api_key.html
